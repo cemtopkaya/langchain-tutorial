@@ -1,0 +1,16 @@
+
+
+Langchain kütüphanesi
+```shell
+pip install langchain==0.0.137
+```
+
+Python ortamı için gerekli kütüphane
+```shell
+pip install python-dotenv==1.0.0
+```
+
+Vektör veritabanı
+```shell
+pip install pinecone-client==2.2.1
+```
